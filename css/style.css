@@ -3,6 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #444;
     width: 1100px;
+    margin: auto;
 }
 img {
     width: auto;
