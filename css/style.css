@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #444;
+    width: 1100px;
+}
+img {
+    width: auto;
+    height: 500px;
+}
